@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**geliusgelius/geliusgelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a budding front-end developer with a passion for creating dynamic and visually appealing web experiences. As a newcomer to the tech world, I’m excited to dive into new challenges and build my skills. I’m dedicated to crafting clean, efficient code and designing user-friendly interfaces. I love learning about the latest web technologies and collaborating on projects that push the boundaries of creativity. Let’s connect and make something amazing together! 🚀
 
-Here are some ideas to get you started:
+## Tech Stack 🔧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** 
+  - HTML5
+  - CSS3
+  - JavaScript
+
+- **Frameworks & Libraries:** 
+  - React.js
+  - SASS / SCSS
+
+- **Tools & Platforms:** 
+  - Git
+  - GitHub
+  - NPM
+  - Webpack
+
+- **Design:** 
+  - Figma
+
+- **Other:** 
+  - Responsive Design
+  - Basic Performance Optimization
+
+Feel free to reach out and collaborate on exciting projects! 😊
