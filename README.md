@@ -27,5 +27,3 @@ I’m a budding front-end developer with a passion for creating dynamic and visu
   - Basic Performance Optimization
 
 Feel free to reach out and collaborate on exciting projects! 😊
-
-## My Portfolio website: http://angeliey.beget.tech/
