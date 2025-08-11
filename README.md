@@ -10,7 +10,7 @@ I build responsive, modern, and visually stunning web interfaces. Passionate abo
 🛠️ **Tech stack:**  
 - **HTML5** / **CSS3** (SASS/SCSS)  
 - **JavaScript** (ES6+), **React**, **Vite**  
-- **Git** & **GitHub**, **Figma**, **Webpack** (basics)  
+- **GitHub**, **Figma**, **Webpack** (basics)  
 
 🎓 **Education (all with honors):**  
 - Master’s: TSTU, "Analysis and Synthesis of Information Systems" (2022–2024)  
