@@ -1,29 +1,23 @@
- # Hi there! 👋
+### 👋 Hi! I'm a Frontend Developer  
 
-I’m a budding front-end developer with a passion for creating dynamic and visually appealing web experiences. As a newcomer to the tech world, I’m excited to dive into new challenges and build my skills. I’m dedicated to crafting clean, efficient code and designing user-friendly interfaces. I love learning about the latest web technologies and collaborating on projects that push the boundaries of creativity. Let’s connect and make something amazing together! 🚀
+I build responsive, modern, and visually stunning web interfaces. Passionate about clean code and thoughtful UX/UI.  
 
-## Tech Stack 🔧
+✨ **What I do:**  
+- **Code landing pages** from designs (Figma, Photoshop, even sketches!) 🎨  
+- **Develop SPAs** with React ⚛️  
+- **Optimize** performance and polish details 🚀  
 
-- **Languages:** 
-  - HTML5
-  - CSS3
-  - JavaScript
+🛠️ **Tech stack:**  
+- **HTML5** / **CSS3** (SASS/SCSS)  
+- **JavaScript** (ES6+), **React**, **Vite**  
+- **Git** & **GitHub**, **Figma**, **Webpack** (basics)  
 
-- **Frameworks & Libraries:** 
-  - React.js
-  - SASS / SCSS
+🎓 **Education (all with honors):**  
+- Master’s: TSTU, "Analysis and Synthesis of Information Systems" (2022–2024)  
+- Bachelor’s: TSTU, "Information Systems and Technologies" (2018–2022)  
+- College: TSTU, "Programming in Computer Systems" (2014–2018)  
 
-- **Tools & Platforms:** 
-  - Git
-  - GitHub
-  - NPM
-  - Webpack
+📩 **Let’s collaborate:**  
+Open to exciting projects and partnerships! Let’s create something awesome together.  
 
-- **Design:** 
-  - Figma
-
-- **Other:** 
-  - Responsive Design
-  - Basic Performance Optimization
-
-Feel free to reach out and collaborate on exciting projects! 😊
+🔗 **Connect:** [angelina68tmb@gmail.com / [Telegram](https://t.me/geliusgelius) ]  
