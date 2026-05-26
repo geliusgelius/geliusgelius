@@ -33,3 +33,4 @@ ChatGPT, DeepSeek, Gemini, VS Code, Figma
 
 Open to exciting projects, full-stack development, and SEO-focused web solutions.
 Let's build something that stands out.
+My site: angelinasmirnova.ru
