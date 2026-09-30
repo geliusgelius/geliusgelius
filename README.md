@@ -63,14 +63,6 @@ Passionate about clean architecture, thoughtful UX/UI, and websites that truly p
 
 ---
 
-## 📂 Featured Projects
-
-- 🌐 [My Portfolio Website](https://angelinasmirnova.ru/)
-- 🚀 [Project 1 — add link here]
-- 🛠️ [Project 2 — add link here]
-
----
-
 ## 📩 Let's Collaborate
 
 I'm open to **Frontend Developer** roles (React, TypeScript) and projects with Fullstack or SEO elements.
